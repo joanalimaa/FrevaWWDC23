@@ -4,7 +4,7 @@ The Swift Playgound App was created for <a href="https://developer.apple.com/wwd
 
 ## About this project 💬
 
-In this application, a character inspired on me teaches about the history of Frevo, its characteristics, etc. and at the end it shows some simple "passos" through animations. 
+In this application, a character inspired on me teaches about the history of Frevo, its characteristics, etc. and also teaches some simple "passos" through animations. 
 The application also has a narration, with the aim of being more accessible and teaching a few words in Portuguese, since the target audience is non-speakers of that language.
 
 ## Take a look 👀
