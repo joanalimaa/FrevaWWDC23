@@ -9,4 +9,5 @@ The application also has a narration, with the aim of being more accessible and 
 
 ## Take a look 👀
 
-![](https://github.com/joanalimaa/FrevaWWDC23/commit/ad8aa31d215cfa97d4ecabd5c3fc1c02dee85ad9.gif)
+
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/joanalimaa/FrevaWWDC23/commit/ad8aa31d215cfa97d4ecabd5c3fc1c02dee85ad9.gif)" width="40" height="40" />
